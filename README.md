@@ -1,1 +1,2 @@
 read me devops
+# redirections
