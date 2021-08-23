@@ -1,2 +1,1 @@
-read me devops
-# redirections
+Shell_Basics, Shell_Permissions, Shell_Redirections
